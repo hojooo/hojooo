@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Java-FF7800.svg?style=for-the-badge&logoColor=FFFFFF" />
 
 ### Skills
-<img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=FFFFFF" />
 
 ### BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghwn1224)](https://solved.ac/ghwn1224/)
