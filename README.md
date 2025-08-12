@@ -32,7 +32,3 @@ Here are some ideas to get you started:
 
 ### Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghwn1224)](https://solved.ac/ghwn1224/)
-
-### Contact
-[![Tech Blog Badge](http://img.shields.io/badge/-blog-black?style=flat-square&logo=tistory&link=https://bird-j.tistory.com/)](https://bird-j.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghwn5833@gmail.com)](mailto:ghwn5833@gmail.com)
