@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logoColor=FFFFFF" /> 
 <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=FFFFFF" /> 
-<img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=nginx&logoColor=FFFFFF" /> 
 
 
