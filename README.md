@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 
 ### Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghwn1224)](https://solved.ac/ghwn1224/)
+
+
+### Record
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=HoJooo)](https://bird-j.tistory.com/)
