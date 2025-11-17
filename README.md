@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF" /> 
 <img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=nginx&logoColor=FFFFFF" /> 
 
+### Open Source Contribution
+[Spring Boot #47292](https://github.com/spring-projects/spring-boot/pull/47292)
 
 ### Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghwn1224)](https://solved.ac/ghwn1224/)
