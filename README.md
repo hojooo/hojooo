@@ -18,14 +18,16 @@ Here are some ideas to get you started:
 ### Core Skills
 ![Java](https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=OpenJDK&logoColor=white) 
 <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=FFFFFF" /> 
-<img src="https://img.shields.io/badge/Hibernate%20ORM-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=FFFFFF" /> 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">  
-<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=FFFFFF" /> 
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF" /> 
-<img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" /> 
+<img src="https://img.shields.io/badge/Hibernate%20ORM-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=FFFFFF" />   
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
 
 ### Additional
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+<img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=FFFFFF" />   
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF" /> 
 <img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=nginx&logoColor=FFFFFF" /> 
 
