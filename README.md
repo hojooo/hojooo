@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### [Resume](https://exultant-haumea-7a4.notion.site/14d81f531dcb80b882e9c5716112c303?pvs=74)
+### [About Me](https://exultant-haumea-7a4.notion.site/14d81f531dcb80b882e9c5716112c303?pvs=7)
 
 ### Core Skills
 ![Java](https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=OpenJDK&logoColor=white)
