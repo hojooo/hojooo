@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### [Resume](https://exultant-haumea-7a4.notion.site/14d81f531dcb80b882e9c5716112c303?pvs=74)
 
 ### Core Skills
-![Java](https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=OpenJDK&logoColor=white) 
-<img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=FFFFFF" /> 
-<img src="https://img.shields.io/badge/Hibernate%20ORM-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=FFFFFF" />   
+![Java](https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=OpenJDK&logoColor=white)
+<img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Hibernate%20ORM-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
@@ -36,7 +37,6 @@ Here are some ideas to get you started:
 
 ### Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghwn1224)](https://solved.ac/ghwn1224/)
-
 
 ### Record
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=HoJooo)](https://bird-j.tistory.com/)
