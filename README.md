@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=nginx&logoColor=FFFFFF" /> 
 
 ### Open Source Contribution
-**Spring Boot 3.5.8 반영 완료**   
+**Spring Boot 3.4.12 / 3.5.8 반영 완료**   
 [Spring Boot #47292 - docker image build fail on buildBootImage Task](https://github.com/spring-projects/spring-boot/pull/47292)
 
 **Spring Boot 4.1.x 반영 예정**   
