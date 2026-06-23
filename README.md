@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 **Spring Boot 3.4.12 / 3.5.8 반영 완료**   
 [Spring Boot #47292 - docker image build fail on buildBootImage Task](https://github.com/spring-projects/spring-boot/pull/47292)
 
-**Spring Boot 4.1.0 반영 예정**   
+**Spring Boot 4.1.0-M3 반영 완료**   
 [Spring Boot #47260 - Add Log4j2 rolling policy configuration](https://github.com/spring-projects/spring-boot/pull/47260)
 
 
